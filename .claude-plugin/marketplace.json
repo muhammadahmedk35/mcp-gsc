@@ -1,0 +1,13 @@
+{
+  "name": "muhammadahmedk35-mcp-tools",
+  "owner": {
+    "name": "muhammadahmedk35"
+  },
+  "plugins": [
+    {
+      "name": "mcp-search-console",
+      "source": "./",
+      "description": "Connect Google Search Console with Claude Code"
+    }
+  ]
+}
